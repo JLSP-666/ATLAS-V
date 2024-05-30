@@ -438,43 +438,75 @@ footer{
 /* ajustar  */
 @media screen and (max-width: 481px ) {
     body {
-    background-color: rgb(157, 145, 155);
+    background-color: rgb(255, 255, 255);
     }
     /* seccion 1 de la pagina */
     #texto22{
-        padding:30px 0px 0px 90px ;
-        width: 350px;
-        font-size: 10px;
+        padding:30px 0px 0px 60px ;
+        width: 380px;
+        font-size: 20px;
     }
     #texto1{
-        padding:30px 0px 0px 100px ;
-        font-size: 50px;
+        padding:30px 0px 0px 60px ;
+        font-size: 30px;
         font-family:Verdana, Geneva, Tahoma, sans-serif;
     }
+    #boton1{
+        margin: 50 90px 0px 0px;
+    }
     /* seccion 2 */
+    #seccion2{
+        padding: 20vh 5px 20vh 5px;
+    }
     #sup-1{
         padding: 0px;
     }
     #icon1{
         width: 100px;
+        padding: 10px 10px 10px 10px;
         
     }
     #icon2{
         width: 100px;
+        padding: 10px 10px 10px 10px;
         
     }
     #icon3{
         width: 100px;
+        padding: 10px 10px 10px 10px;
         
     }
-    
+    #B-I1{
+        font-size: 20px;
+        padding: 10px 2px 10px 2px;
+    }
+    #B-I2{
+        font-size: 20px;
+        padding: 10px 2px 10px 2px;
+    }
+    #B-I3{
+        font-size: 20px;
+        padding: 10px 2px 10px 2px;
+    }
+    #B-I4{
+        font-size: 15px;
+       
+    }
+    #B-I5{
+        font-size: 15px;
+        
+    }
+    #B-I6{
+        font-size: 15px;
+        
+    }
     
     /* seccion 3 */
     #seccion3{
         padding: 0px;
     }
     #fotos-pc{
-        width: 230px;
+        width: 210px;
         margin: 20px;
     }
     #texto3-1{
@@ -490,21 +522,37 @@ footer{
     }
     /* seccion 4 */
     #conten-list{
-        font-size: 15px;
+        font-size: 12px;
     }
     /* seccion 5 */
     #carta1-4{
-        width: 159px;
+        width: 140px;
+        height: 350px;
     }
     #carta2-4{
-        width: 159px;
+        width: 140px;
+        height: 350px;
     }
     #carta3-4{
-        width: 159px;
+        width: 140px;
+        height: 350px;
     }
 
     #fotos-cadena{
         width: 55px;
+    }
+    #conten-list{
+        width: 150px;
+    }
+    #boton-carta-1{
+        width: 110px;
+        height: 40px;
+        border-width: 2px;
+    }
+    #boton-carta-2{
+        width: 110px;
+        height: 40px;
+        border-width: 2px; 
     }
     /* seccion 6 */
     #seccion6{
@@ -512,6 +560,16 @@ footer{
         background-size: cover;
         padding: 15vh;
         flex-direction: column;
+    }
+    #seccion6-1{
+        width: 350px;
+        margin: 0px;
+        padding: 0px;
+    }
+    #seccion6-2{
+        width: 350px;
+        margin: 0px;
+        padding: 0px;
     }
     input{
         width:128px ;
@@ -538,25 +596,37 @@ footer{
         width: 300px;
     }
     #texto6-1{
-        font-size: 20px;
+        font-size: 25px;
         margin: 20px 0px 20px 0px;
         width: 900px;
     }
     #texto6-1{
-        font-size: 10px;
+        font-size: 15px;
         margin: 20px 0px 20px 0px;
+        width: 350px;
+        
     }
     #texto6-2{
-        font-size: 20px;
+        font-size: 25px;
         margin: 20px 0px 20px 0px;
         justify-content: left;
+    }
+    #cajas{
+        width: 100px;
+    }
+    #text-box-2{
+        width: 100px;
     }
     /* footer */
     footer{
         padding: 30px 10px 10px 10px;
+        font-size: 10px;
     }
     #icon-1{
+        width: 20px;
+        height: 20px;
         
     }
 
-}    
+}
+/* ajustar */
