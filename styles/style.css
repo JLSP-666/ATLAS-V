@@ -334,6 +334,13 @@ footer{
         font-size: 20px;
         margin: 20px 0px 20px 0px;
     }
+    /* footer */
+    footer{
+        padding: 30px 8px 10px 8px;
+    }
+    #icon-1{
+        
+    }
 
 
 }    
@@ -445,16 +452,36 @@ footer{
         font-family:Verdana, Geneva, Tahoma, sans-serif;
     }
     /* seccion 2 */
+    #sup-1{
+        padding: 0px;
+    }
+    #icon1{
+        width: 100px;
+        
+    }
+    #icon2{
+        width: 100px;
+        
+    }
+    #icon3{
+        width: 100px;
+        
+    }
+    
+    
     /* seccion 3 */
+    #seccion3{
+        padding: 0px;
+    }
     #fotos-pc{
-        width: 350px;
-        margin: 40px;
+        width: 230px;
+        margin: 20px;
     }
     #texto3-1{
-        font-size: 25px;
+        font-size: 16px;
     }
     #texto3-2{
-        font-size: 20px;
+        font-size: 11px;
         width: 200px;
     }
     #boton1{
@@ -462,22 +489,32 @@ footer{
         height: 30px;
     }
     /* seccion 4 */
+    #conten-list{
+        font-size: 15px;
+    }
     /* seccion 5 */
+    #carta1-4{
+        width: 159px;
+    }
+    #carta2-4{
+        width: 159px;
+    }
+    #carta3-4{
+        width: 159px;
+    }
+
     #fotos-cadena{
-        width: 100px;
+        width: 55px;
     }
     /* seccion 6 */
     #seccion6{
         background-image: url(../assets/img/banner-bk.jpg);
         background-size: cover;
-        padding: 17vh;
-        /* padding-left: 20px; */
-        display: flex;
-        justify-content: center;
-        align-items: center;
+        padding: 15vh;
+        flex-direction: column;
     }
     input{
-        width:117px ;
+        width:128px ;
         border-color:#00FFAD;
         border-radius: 10px;
         height: 50px;
@@ -485,7 +522,7 @@ footer{
         background-color: #ffffff00;
     }
     #input3{
-        width:117px ;
+        width:128px ;
         border-color:#00FFAD;
         border-radius: 10px;
         height: 50px;
@@ -497,21 +534,21 @@ footer{
         border-color:#00FFAD;
         border-radius: 10px;
         background-color: #ffffff00;
-        height: 100px;
-        width: 280px;
+        height: 90px;
+        width: 300px;
     }
     #texto6-1{
         font-size: 20px;
         margin: 20px 0px 20px 0px;
-        width: 200px;
+        width: 900px;
     }
     #texto6-1{
-        font-size: 15px;
+        font-size: 10px;
         margin: 20px 0px 20px 0px;
     }
     #texto6-2{
-        font-size: 25px;
-        margin: 20px 20px 20px 0px;
+        font-size: 20px;
+        margin: 20px 0px 20px 0px;
         justify-content: left;
     }
     /* footer */
