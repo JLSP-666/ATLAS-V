@@ -435,6 +435,97 @@ footer{
     }
 
 }    
+/* ajustar */
+@media screen and (max-width: 769px ) {
+    body {
+    background-color: rgb(255, 255, 255);
+    }
+    /* seccion 1 de la pagina */
+    #texto22{
+        padding:30px 0px 0px 90px ;
+        width: 600px;
+        font-size: 15px;
+    }
+    #texto1{
+        padding:30px 0px 0px 100px ;
+        font-size: 50px;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+    }
+    /* seccion 2 */
+    /* seccion 3 */
+    #fotos-pc{
+        width: 350px;
+        margin: 40px;
+    }
+    #texto3-1{
+        font-size: 25px;
+    }
+    #texto3-2{
+        font-size: 20px;
+        width: 200px;
+    }
+    /* seccion 4 */
+    /* seccion 5 */
+    #fotos-cadena{
+        width: 100px;
+    }
+    /* seccion 6 */
+    #seccion6{
+        background-image: url(../assets/img/banner-bk.jpg);
+        background-size: cover;
+        padding: 17vh;
+        /* padding-left: 20px; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    input{
+        width:117px ;
+        border-color:#00FFAD;
+        border-radius: 10px;
+        height: 50px;
+        margin: 20px 0px 20px 0px;
+        background-color: #ffffff00;
+    }
+    #input3{
+        width:117px ;
+        border-color:#00FFAD;
+        border-radius: 10px;
+        height: 50px;
+        margin: 20px 0px 20px 40px;
+        background-color: #ffffff00;
+    }
+    #input2{
+        margin: 10px 0px 0px 10px;
+        border-color:#00FFAD;
+        border-radius: 10px;
+        background-color: #ffffff00;
+        height: 100px;
+        width: 280px;
+    }
+    #texto6-1{
+        font-size: 20px;
+        margin: 20px 0px 20px 0px;
+        width: 200px;
+    }
+    #texto6-1{
+        font-size: 15px;
+        margin: 20px 0px 20px 0px;
+    }
+    #texto6-2{
+        font-size: 25px;
+        margin: 20px 20px 20px 0px;
+        justify-content: left;
+    }
+    /* footer */
+    footer{
+        padding: 30px 10px 10px 10px;
+    }
+    #icon-1{
+        
+    }
+
+}  
 /* ajustar  */
 @media screen and (max-width: 481px ) {
     body {
@@ -628,98 +719,7 @@ footer{
         
     }
 
-}
-/* ajustar */
-@media screen and (max-width: 769px ) {
-    body {
-    background-color: rgb(157, 145, 155);
-    }
-    /* seccion 1 de la pagina */
-    #texto22{
-        padding:30px 0px 0px 90px ;
-        width: 600px;
-        font-size: 15px;
-    }
-    #texto1{
-        padding:30px 0px 0px 100px ;
-        font-size: 50px;
-        font-family:Verdana, Geneva, Tahoma, sans-serif;
-    }
-    /* seccion 2 */
-    /* seccion 3 */
-    #fotos-pc{
-        width: 350px;
-        margin: 40px;
-    }
-    #texto3-1{
-        font-size: 25px;
-    }
-    #texto3-2{
-        font-size: 20px;
-        width: 200px;
-    }
-    /* seccion 4 */
-    /* seccion 5 */
-    #fotos-cadena{
-        width: 100px;
-    }
-    /* seccion 6 */
-    #seccion6{
-        background-image: url(../assets/img/banner-bk.jpg);
-        background-size: cover;
-        padding: 17vh;
-        /* padding-left: 20px; */
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-    input{
-        width:117px ;
-        border-color:#00FFAD;
-        border-radius: 10px;
-        height: 50px;
-        margin: 20px 0px 20px 0px;
-        background-color: #ffffff00;
-    }
-    #input3{
-        width:117px ;
-        border-color:#00FFAD;
-        border-radius: 10px;
-        height: 50px;
-        margin: 20px 0px 20px 40px;
-        background-color: #ffffff00;
-    }
-    #input2{
-        margin: 10px 0px 0px 10px;
-        border-color:#00FFAD;
-        border-radius: 10px;
-        background-color: #ffffff00;
-        height: 100px;
-        width: 280px;
-    }
-    #texto6-1{
-        font-size: 20px;
-        margin: 20px 0px 20px 0px;
-        width: 200px;
-    }
-    #texto6-1{
-        font-size: 15px;
-        margin: 20px 0px 20px 0px;
-    }
-    #texto6-2{
-        font-size: 25px;
-        margin: 20px 20px 20px 0px;
-        justify-content: left;
-    }
-    /* footer */
-    footer{
-        padding: 30px 10px 10px 10px;
-    }
-    #icon-1{
-        
-    }
-
-}    
+}  
 /* ajustar  */
 @media screen and (max-width: 352px ) {
     body {
