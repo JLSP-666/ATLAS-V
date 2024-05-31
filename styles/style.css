@@ -279,7 +279,7 @@ footer{
 /* media querrys */
 @media screen and (max-width: 921px ) {
     body {
-    background-color: rgb(157, 145, 155);
+    background-color: rgb(255, 255, 255);
     }
     /* seccion 1 de la pagina */
     #texto22{
