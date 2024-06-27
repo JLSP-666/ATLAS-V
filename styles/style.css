@@ -189,10 +189,21 @@ font{
 }
 /* seccion 5 */
 #seccion5{
+    position: sticky;
+    bottom: 0px;
     display: flex;
     justify-content: space-evenly;
-    padding: 5vh;
+    padding: 2vh;
     background-color: #ECEEEF;
+}
+#yo{
+    width: 100px;
+    height: 140px;
+    border-radius: 100px ;
+    border: solid black 4px;
+    position: relative;
+    right:  44%;
+    bottom: 100px ;
 }
 /* seccion 6 */
 #seccion6{
@@ -616,6 +627,9 @@ footer{
         font-size: 12px;
     }
     /* seccion 5 */
+    #seccion5{
+       
+    }
     #carta1-4{
         width: 140px;
         height: 350px;
